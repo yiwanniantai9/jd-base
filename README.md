@@ -2,7 +2,7 @@
 - 本shell脚本用来运行[lxk0301/scripts](https://github.com/lxk0301/scripts)中的js脚本，解放双手，自动玩耍京东的各种游戏，主要有：各种签到、东东农场、种豆得豆、天天加速、摇钱树、宠汪汪、东东萌宠、京小超，获取各种小羊毛。
 - **如果是对js脚本有使用的上的问题请前往 [lxk0301/scripts](https://github.com/lxk0301/scripts) 提出，这里只解决shell脚本的问题。**
 ## 适合人群
-- 每个月要超出Github Action免费使用时长的；
+- 每个月要超出Github Action免费使用时长的；11
 - 没有水果机的；
 - 想要精确控制脚本运行时间的；
 - 有nas或者vps等7×24运行设备的；
